@@ -77,9 +77,7 @@ Ordillo, V., Shimizu, K., Putungan, D.B., Santos-Putungan, A.B., Watanabe, S., d
 
 <!-- CONTACT -->
 ## Contact
-Name: Allan Abraham B. Padama, Ph.D.
-Affiliation: Institute of Mathematical Sciences and Physics, University of the Philippines Los Baños
-Email: abpadama@up.edu.ph
+Allan Abraham B. Padama, Ph.D. (abpadama@up.edu.ph)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
