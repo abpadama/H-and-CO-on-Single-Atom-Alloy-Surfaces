@@ -57,7 +57,6 @@ You can download the data used in this study by cloning the git repository:
 >
 > **Adsorption Sites**: hcp(h1 and h2), top(t1 and t2), bridge(b1 and b2), fcc(f1 and f2)
 >
-> ![Slab](./slab.png)
 
 > ### Machine Learning
 > #### **Features**: All features used in this study are presented in Table S1 of the Supplementary Information document.
